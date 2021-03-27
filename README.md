@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HMHepburn
+- 👀 I’m interested in full-stack development!
+- 🌱 I’m currently learning about front-end development and improving my JS/HTML/CSS skills!
+- 💞️ I’m looking to collaborate on: any available project, I have skills in both front-end and back-end development! (C#/.NET, C++, Java, JavaScript, HTML, CSS and more!)
+- 📫 How to reach me: email me at hannahm.hepburn@gmail.com
